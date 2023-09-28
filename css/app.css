@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    text-align: center;
+    font-weight: bold;
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    margin: 22px;
+    border-radius: 20px;
+    min-height: 600px;
+    border-style: solid;
+}
+.container .screen{
+    text-align: right;
+    margin-right: 5px;
+    padding: 22px;
+}
+.container .button-area{
+    display: grid;
+    grid-template-columns: auto auto auto ;
+    gap: 14px;
+}
+.container .button-area .buttons{
+    border-style: solid;
+    padding: 12px;
+    margin: 7px;
+}
