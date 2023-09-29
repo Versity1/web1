@@ -2,45 +2,33 @@
 function show() {
     document.getElementById('display').innerHTML='1'
 }
-function show() {
+function show2() {
     document.getElementById('display').innerHTML='2'
 }
-function show() {
+function show3() {
     document.getElementById('display').innerHTML='3'
 }
-function show() {
+function show4() {
     document.getElementById('display').innerHTML='4'
 }
-function show() {
+function show5() {
     document.getElementById('display').innerHTML='5'
 }
-function show() {
+function show6() {
     document.getElementById('display').innerHTML='6'
 }
-function show() {
+function show7() {
     document.getElementById('display').innerHTML='7'
 }
-function show() {
+function show8() {
     document.getElementById('display').innerHTML='8'
-
-function show() {
+}
+function show9() {
     document.getElementById('display').innerHTML='9'
 }
-function show() {
-    document.getElementById('display').innerHTML=''
+function showplus() {
+    document.getElementById('display').innerHTML='+'
 }
-function show() {
-    document.getElementById('display').innerHTML=''
-}
-function show() {
-    document.getElementById('display').innerHTML=''
-}
-function show() {
-    document.getElementById('display').innerHTML=''
-}
-function show() {
-    document.getElementById('display').innerHTML=''
-}
-function show(=) {
-    document.getElementById('display').innerHTML=''
+function showminus() {
+    document.getElementById('display').innerHTML='-'
 }

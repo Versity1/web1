@@ -11,7 +11,10 @@ body{
     margin: 22px;
     border-radius: 20px;
     min-height: 600px;
+    max-width: 500px;
     border-style: solid;
+    float: right;
+    width: 50%;
 }
 .container .screen{
     text-align: right;
